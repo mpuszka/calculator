@@ -1,0 +1,27 @@
+.form-group-calculator {
+    margin: 15px 0;
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input {
+        width: 100%;
+        padding: 5px 5px;
+    }
+}
+
+.calculator-front-form {
+    .form-group {
+        margin: 15px 0;
+
+        input,
+        select {
+            width: 100%;
+            height: 50px;
+            padding: 15px 15px;
+            font-size: 16px;
+        }
+    }
+}

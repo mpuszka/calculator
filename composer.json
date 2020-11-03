@@ -1,0 +1,17 @@
+{
+    "name": "marcinpuszka/calculator",
+    "description": "composer file for calculator plugin",
+    "authors": [
+        {
+            "name": "Marcin Puszka",
+            "email": "m.puszka88@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": ["class/", "interface"]
+        }
+    },
+    "require": {},
+    "require-dev": {}
+}
